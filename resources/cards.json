@@ -1,0 +1,28 @@
+{ "cards": [
+  {
+    "id": 1085,
+    "name": "Back-Alley Footpad",
+    "rarity": "common",
+    "type": "creature",
+    "attributes": ["agility"],
+    "cost": 0,
+    "expansion set": "Alliance War",
+    "effects": [],
+    "isProphecy": "false",
+    "atk": 1,
+    "life": 1,
+    "keywords": [],
+    "races": ["Dark Elf"]
+  },
+  {
+    "id": 888,
+    "name": "Bushwhack",
+    "rarity": "common",
+    "type": "action",
+    "attributes": ["strength"],
+    "cost": 0,
+    "expansion set": "Houses of Morrowind",
+    "effects": [],
+    "isProphecy": "false"
+  }
+]}
