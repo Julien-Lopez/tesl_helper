@@ -7,7 +7,7 @@
     "attributes": ["agility"],
     "cost": 0,
     "expansion set": "Alliance War",
-    "effects": [],
+    "effects": ["target(1, cover)"],
     "isProphecy": "false",
     "atk": 1,
     "life": 1,
@@ -22,7 +22,7 @@
     "attributes": ["strength"],
     "cost": 0,
     "expansion set": "Houses of Morrowind",
-    "effects": [],
+    "effects": ["target(1, unrestrictedattack)"],
     "isProphecy": "false"
   }
 ]}
